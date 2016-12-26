@@ -1,6 +1,6 @@
 # Ernesto Budia Sanchez
 # 26/12/2016
-# E/xploratory Data Analysis - Course Project 1 
+# Exploratory Data Analysis - Course Project 1 
 # plot1.R
 ######################################################
 
